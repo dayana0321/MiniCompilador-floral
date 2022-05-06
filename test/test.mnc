@@ -1,0 +1,24 @@
+//Inicio del programa
+rosa miprograma {
+	//Declaramos las variables
+	petunia y;
+	tulipan x;
+	tulipan z;
+	tulipan c;
+	 
+	 //Inicializamos las variables 
+	 y := "hola";
+	 x := 5 ;
+	 z := 6;
+	 //Inicia la condicion
+	lirio(x > z) {
+		orquidea "Es mayor" ;
+		
+		c := 5 - 6;
+	} 
+	hortensia {
+		orquidea "Es menor" ;
+		c:= 5 + 6;
+		
+	}
+}
